@@ -901,6 +901,9 @@ Whitespace
 - `array_indentation <./whitespace/array_indentation.rst>`_
 
   Each element of an array must be indented exactly once.
+- `array_line_break <./whitespace/array_line_break.rst>`_
+
+  No array value should exist on opening or closing line of multi line array.
 - `blank_line_before_statement <./whitespace/blank_line_before_statement.rst>`_
 
   An empty line feed must precede any configured statement.

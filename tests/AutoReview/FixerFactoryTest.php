@@ -337,6 +337,7 @@ final class FixerFactoryTest extends TestCase
             ],
             'array_indentation' => [
                 'align_multiline_comment',
+                'array_line_break',
                 'binary_operator_spaces',
             ],
             'array_syntax' => [
